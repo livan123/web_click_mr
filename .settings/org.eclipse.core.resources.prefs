@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/cn/bobo/hive/hive/mr/ClickStreamThree.java=UTF-8
+encoding//src/cn/bobo/hive/hive/mr/ClickStreamVisit.java=UTF-8
+encoding//src/cn/bobo/hive/hive/mr/pre/WeblogPreProcess.java=UTF-8
+encoding//src/cn/bobo/hive/hive/mr/pre/WeblogPreValid.java=UTF-8
+encoding//src/cn/bobo/hive/hive/mrbean/WebLogBean.java=UTF-8
+encoding//src/cn/bobo/hive/hive/mrbean/WebLogParser.java=UTF-8
